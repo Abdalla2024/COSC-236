@@ -7,6 +7,7 @@
 # Specific Java files
 IR4.java
 miscFunc.java
+Lab7/
 
 # Compiled class files
 *.class
